@@ -1,6 +1,5 @@
 # Hellom I'm Myo Hset,
-
-<a href="https://www.linkedin.com/in/myo-hset-nyi-thu-43417617b/"/><a>
+<a href="https://www.linkedin.com/in/myo-hset-nyi-thu-43417617b/"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an enthusiast in cybersecurity, eager to develop skills in safeguarding digital systems against evolving threats.
 
@@ -17,9 +16,9 @@ My journey in the cybersecurity field has fueled my passion, and I am now eager 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
