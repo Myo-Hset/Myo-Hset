@@ -6,6 +6,12 @@ I am an enthusiast in cybersecurity, eager to develop skills in safeguarding dig
 ## Objective
 My journey in the cybersecurity field has fueled my passion, and I am now eager to transition fully into this area, with the specific goal of joining a Security Operations Center (SOC) as a Security Analyst.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation         | <a href="https://github.com/Myo-Hset/Splunk-on-Linux">Splunk-on-Linux</a>|
+
 ## Tools
 
 ### Endpoint
@@ -36,3 +42,6 @@ My journey in the cybersecurity field has fueled my passion, and I am now eager 
 <img src="https://img.shields.io/badge/-CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
+## Project
+- <a href="https://github.com/Myo-Hset/Splunk-on-Linux">Splunk-on-Linux</a>
