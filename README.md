@@ -36,3 +36,8 @@ My journey in the cybersecurity field has fueled my passion, and I am now eager 
 <img src="https://img.shields.io/badge/-CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
+
+## Projects
+ <a href="https://github.com/Myo-Hset/CTI-Integration-Home-Lab">CTI-Integration Home Lab</a>
+ 
+ <a href="https://github.com/Myo-Hset/Splunk-on-Linux">Splunk-on-Linux</a>
