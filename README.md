@@ -40,7 +40,7 @@ My journey in the cybersecurity field has fueled my passion, and I am now eager 
 ## Projects
  <a href="https://github.com/Myo-Hset/CTI-Integration-Home-Lab">CTI-Integration Home Lab</a>
 
-  <a href="https://github.com/Myo-Hset/Network-Packet-Indexer">Network-Packet-Indexer</a>
+  <a href="https://github.com/Myo-Hset/Network-Packet-Indexer">Network Packet Indexer</a>
  
- <a href="https://github.com/Myo-Hset/Splunk-on-Linux">Splunk-on-Linux</a>
+ <a href="https://github.com/Myo-Hset/Splunk-on-Linux">Splunk on Linux</a>
 
