@@ -3,9 +3,6 @@
 
 I am an enthusiast in cybersecurity, eager to develop skills in safeguarding digital systems against evolving threats.
 
-## Objective
-My journey in the cybersecurity field has fueled my passion, and I am now eager to transition fully into this area, with the specific goal of joining a Security Operations Center (SOC) as a Security Analyst.
-
 ## Tools
 
 ### Endpoint
