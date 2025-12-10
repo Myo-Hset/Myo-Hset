@@ -3,6 +3,14 @@
 
 I am an enthusiast in cybersecurity, eager to develop skills in safeguarding digital systems against evolving threats.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Myo-Hset/Detection-Lab-">Detection-Lab</a> |
+| Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/Myo-Hset/Network-Packet-Indexer">Network Packet Indexer</a> |
+| CTI Integration (OpenCTI - SPLUNK)        | <a href="https://github.com/Myo-Hset/CTI-Integration-Home-Lab">CTI-Integration Home Lab</a>|
+
 
 ## Tools
 
@@ -35,12 +43,14 @@ I am an enthusiast in cybersecurity, eager to develop skills in safeguarding dig
 <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-4D4D4D?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Projects
+## Cybersecurity Projects
 
  <a href="https://github.com/Myo-Hset/Detection-Lab-">Detection-Lab</a>
 
  <a href="https://github.com/Myo-Hset/CTI-Integration-Home-Lab">CTI-Integration Home Lab</a>
 
   <a href="https://github.com/Myo-Hset/Network-Packet-Indexer">Network Packet Indexer</a>
+
+  
 
 
