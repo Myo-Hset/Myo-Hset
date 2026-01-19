@@ -7,9 +7,10 @@ I am an enthusiast in cybersecurity, eager to develop skills in safeguarding dig
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Myo-Hset/Detection-Lab-">Detection-Lab</a> |
+| Splunk SIEM Implementation and Log Analysis          | <a href="https://github.com/Myo-Hset/Detection-Lab-">Detection-Lab</a> |
 | Network Traffic Monitoring and Attack Detection |  <a href="https://github.com/Myo-Hset/Network-Packet-Indexer">Network Packet Indexer</a> |
 | CTI Integration (OpenCTI - SPLUNK)        | <a href="https://github.com/Myo-Hset/CTI-Integration-Home-Lab">CTI-Integration Home Lab</a>|
+| ELK SIEM Implementation and Log Analysis          | <a href="https://github.com/Myo-Hset/30-Day-MyDFIR-Elastic-Challenge">30-Day-MyDFIR-Elastic-Challenge</a> |
 
 
 ## Tools
